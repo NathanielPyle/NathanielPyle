@@ -23,7 +23,7 @@ In my spare time, I enjoy learning new skills and languages that can benefit me 
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL]([https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white))
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
