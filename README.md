@@ -18,7 +18,8 @@ In my spare time, I enjoy learning new skills and languages that can benefit me 
 - scikit-learn • time series  
 - Model development and evaluation
 
-### **Data Visualisation*
+
+### **Data Visualisation**
 - PowerBI • Tableau   
 - Matplotlib • ggplot • Seaborn
 
