@@ -16,7 +16,11 @@ In my spare time, I enjoy learning new skills and languages that can benefit me 
 ### **Data Science, Analysis, and Machine Learning**
 - pandas • NumPy • tidyverse  
 - scikit-learn • time series  
-- Model development and evaluation  
+- Model development and evaluation
+
+### **Data Visualisation*
+- PowerBI • Tableau   
+- Matplotlib • ggplot • Seaborn
 
 ### **GIS**
 ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
